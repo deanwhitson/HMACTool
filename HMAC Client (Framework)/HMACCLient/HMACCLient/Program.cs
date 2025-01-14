@@ -22,7 +22,7 @@ namespace HMACClient
             do {
                 Console.WriteLine("");
                 string apiBaseAddress = System.Configuration.ConfigurationManager.AppSettings["apiBaseAddress"];
-                Console.WriteLine("Select CAN message to be imported...");
+                Console.WriteLine("Select CAN message to be imported:");
                 string CAN00 = Console.ReadLine();
                 JObject json = JObject.Parse(File.ReadAllText(CAN00));
                 HMACDelegatingHandler customDelegatingHandler = new HMACDelegatingHandler();
