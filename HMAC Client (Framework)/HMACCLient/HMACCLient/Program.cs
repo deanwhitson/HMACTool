@@ -29,7 +29,7 @@ namespace HMACClient
                 HttpClient client = HttpClientFactory.Create(customDelegatingHandler);
                 Console.WriteLine(" - Endpoint: " + apiBaseAddress + "api/ReceiveMessage");
                 Console.WriteLine(" - Processing Request ...");
-                CompileError
+                //CompileError
                 HttpResponseMessage response = await client.PostAsJsonAsync(apiBaseAddress + "api/ReceiveMessage", json);
 
                 if (response.IsSuccessStatusCode)
@@ -43,6 +43,14 @@ namespace HMACClient
                     Console.WriteLine("Failed to call the API. HTTP Status: {0}, Reason {1}", (int)response.StatusCode, response.ReasonPhrase);
                 }
             } while (i == 1);
+
+
+
+            //HERE IS SOME WHITE SPACE 
+
+
+
+
         }
     }
 }
