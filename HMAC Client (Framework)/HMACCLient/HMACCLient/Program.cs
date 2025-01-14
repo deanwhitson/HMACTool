@@ -43,14 +43,6 @@ namespace HMACClient
                     Console.WriteLine("Failed to call the API. HTTP Status: {0}, Reason {1}", (int)response.StatusCode, response.ReasonPhrase);
                 }
             } while (i == 1);
-
-
-
-            //HERE IS SOME WHITE SPACE 
-
-
-
-
         }
     }
 }
