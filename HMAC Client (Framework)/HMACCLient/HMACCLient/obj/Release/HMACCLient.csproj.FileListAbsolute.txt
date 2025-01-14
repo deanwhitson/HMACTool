@@ -1,0 +1,16 @@
+C:\e4 Projects\HMAC Client (Framework)\HMAC Client (Framework)\HMACCLient\HMACCLient\bin\Release\HMACCLient.exe.config
+C:\e4 Projects\HMAC Client (Framework)\HMAC Client (Framework)\HMACCLient\HMACCLient\bin\Release\HMACCLient.exe.manifest
+C:\e4 Projects\HMAC Client (Framework)\HMAC Client (Framework)\HMACCLient\HMACCLient\bin\Release\HMACCLient.application
+C:\e4 Projects\HMAC Client (Framework)\HMAC Client (Framework)\HMACCLient\HMACCLient\bin\Release\HMACCLient.exe
+C:\e4 Projects\HMAC Client (Framework)\HMAC Client (Framework)\HMACCLient\HMACCLient\bin\Release\HMACCLient.pdb
+C:\e4 Projects\HMAC Client (Framework)\HMAC Client (Framework)\HMACCLient\HMACCLient\bin\Release\Newtonsoft.Json.dll
+C:\e4 Projects\HMAC Client (Framework)\HMAC Client (Framework)\HMACCLient\HMACCLient\bin\Release\System.Net.Http.Formatting.dll
+C:\e4 Projects\HMAC Client (Framework)\HMAC Client (Framework)\HMACCLient\HMACCLient\bin\Release\Newtonsoft.Json.xml
+C:\e4 Projects\HMAC Client (Framework)\HMAC Client (Framework)\HMACCLient\HMACCLient\bin\Release\System.Net.Http.Formatting.xml
+C:\e4 Projects\HMAC Client (Framework)\HMAC Client (Framework)\HMACCLient\HMACCLient\obj\Release\HMACCLient.csproj.AssemblyReference.cache
+C:\e4 Projects\HMAC Client (Framework)\HMAC Client (Framework)\HMACCLient\HMACCLient\obj\Release\HMACCLient.csproj.CoreCompileInputs.cache
+C:\e4 Projects\HMAC Client (Framework)\HMAC Client (Framework)\HMACCLient\HMACCLient\obj\Release\HMACCLient.exe.manifest
+C:\e4 Projects\HMAC Client (Framework)\HMAC Client (Framework)\HMACCLient\HMACCLient\obj\Release\HMACCLient.application
+C:\e4 Projects\HMAC Client (Framework)\HMAC Client (Framework)\HMACCLient\HMACCLient\obj\Release\HMACCLient.csproj.CopyComplete
+C:\e4 Projects\HMAC Client (Framework)\HMAC Client (Framework)\HMACCLient\HMACCLient\obj\Release\HMACCLient.exe
+C:\e4 Projects\HMAC Client (Framework)\HMAC Client (Framework)\HMACCLient\HMACCLient\obj\Release\HMACCLient.pdb

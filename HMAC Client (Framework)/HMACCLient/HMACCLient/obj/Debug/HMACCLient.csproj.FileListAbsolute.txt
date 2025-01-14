@@ -1,0 +1,29 @@
+C:\e4Projects\Private Key Gen\HMAC Client (Framework)\HMACCLient\HMACCLient\bin\Debug\HMACCLient.exe.config
+C:\e4Projects\Private Key Gen\HMAC Client (Framework)\HMACCLient\HMACCLient\bin\Debug\HMACCLient.exe
+C:\e4Projects\Private Key Gen\HMAC Client (Framework)\HMACCLient\HMACCLient\bin\Debug\HMACCLient.pdb
+C:\e4Projects\Private Key Gen\HMAC Client (Framework)\HMACCLient\HMACCLient\bin\Debug\Newtonsoft.Json.dll
+C:\e4Projects\Private Key Gen\HMAC Client (Framework)\HMACCLient\HMACCLient\bin\Debug\System.Net.Http.Formatting.dll
+C:\e4Projects\Private Key Gen\HMAC Client (Framework)\HMACCLient\HMACCLient\bin\Debug\Newtonsoft.Json.xml
+C:\e4Projects\Private Key Gen\HMAC Client (Framework)\HMACCLient\HMACCLient\bin\Debug\System.Net.Http.Formatting.xml
+C:\e4Projects\Private Key Gen\HMAC Client (Framework)\HMACCLient\HMACCLient\obj\Debug\HMACCLient.csproj.AssemblyReference.cache
+C:\e4Projects\Private Key Gen\HMAC Client (Framework)\HMACCLient\HMACCLient\obj\Debug\HMACCLient.csproj.SuggestedBindingRedirects.cache
+C:\e4Projects\Private Key Gen\HMAC Client (Framework)\HMACCLient\HMACCLient\obj\Debug\HMACCLient.csproj.CoreCompileInputs.cache
+C:\e4Projects\Private Key Gen\HMAC Client (Framework)\HMACCLient\HMACCLient\obj\Debug\HMACCLient.csproj.CopyComplete
+C:\e4Projects\Private Key Gen\HMAC Client (Framework)\HMACCLient\HMACCLient\obj\Debug\HMACCLient.exe
+C:\e4Projects\Private Key Gen\HMAC Client (Framework)\HMACCLient\HMACCLient\obj\Debug\HMACCLient.pdb
+C:\e4 Projects\HMAC Client (Framework)\HMAC Client (Framework)\HMACCLient\HMACCLient\bin\Debug\HMACCLient.exe.config
+C:\e4 Projects\HMAC Client (Framework)\HMAC Client (Framework)\HMACCLient\HMACCLient\bin\Debug\HMACCLient.exe
+C:\e4 Projects\HMAC Client (Framework)\HMAC Client (Framework)\HMACCLient\HMACCLient\bin\Debug\HMACCLient.pdb
+C:\e4 Projects\HMAC Client (Framework)\HMAC Client (Framework)\HMACCLient\HMACCLient\bin\Debug\Newtonsoft.Json.dll
+C:\e4 Projects\HMAC Client (Framework)\HMAC Client (Framework)\HMACCLient\HMACCLient\bin\Debug\System.Net.Http.Formatting.dll
+C:\e4 Projects\HMAC Client (Framework)\HMAC Client (Framework)\HMACCLient\HMACCLient\bin\Debug\Newtonsoft.Json.xml
+C:\e4 Projects\HMAC Client (Framework)\HMAC Client (Framework)\HMACCLient\HMACCLient\bin\Debug\System.Net.Http.Formatting.xml
+C:\e4 Projects\HMAC Client (Framework)\HMAC Client (Framework)\HMACCLient\HMACCLient\obj\Debug\HMACCLient.csproj.CoreCompileInputs.cache
+C:\e4 Projects\HMAC Client (Framework)\HMAC Client (Framework)\HMACCLient\HMACCLient\obj\Debug\HMACCLient.exe
+C:\e4 Projects\HMAC Client (Framework)\HMAC Client (Framework)\HMACCLient\HMACCLient\obj\Debug\HMACCLient.pdb
+C:\e4 Projects\HMAC Client (Framework)\HMAC Client (Framework)\HMACCLient\HMACCLient\bin\Debug\HMACCLient.exe.manifest
+C:\e4 Projects\HMAC Client (Framework)\HMAC Client (Framework)\HMACCLient\HMACCLient\bin\Debug\HMACCLient.application
+C:\e4 Projects\HMAC Client (Framework)\HMAC Client (Framework)\HMACCLient\HMACCLient\obj\Debug\HMACCLient.exe.manifest
+C:\e4 Projects\HMAC Client (Framework)\HMAC Client (Framework)\HMACCLient\HMACCLient\obj\Debug\HMACCLient.application
+C:\e4 Projects\HMAC Client (Framework)\HMAC Client (Framework)\HMACCLient\HMACCLient\obj\Debug\HMACCLient.csproj.AssemblyReference.cache
+C:\e4 Projects\HMAC Client (Framework)\HMAC Client (Framework)\HMACCLient\HMACCLient\obj\Debug\HMACCLient.csproj.Up2Date

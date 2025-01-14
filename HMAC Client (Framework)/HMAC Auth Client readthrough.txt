@@ -1,0 +1,25 @@
+HHMAC AUTH
+ 
+Client needs to generaterat unique HMAC signature(Hash) 
+The server needs to provide the Public Shared APP Id and Private Secret API Key
+
+ First, the client needs to create a string (MAC – Message Authentication Code) - hich will contain all the request data that the client wants to send to the server
+ 
+ Generally, the string contains the following parameters
+    - HTTP method
+    - APP Id
+    - Nonce (GUID)
+    - The request URI
+    - Request timestamp
+    - Base 64 string representation of the request payload (request body)
+	
+	generate a HASH by SHA256(hashing algorithm) -- > you need to use the Private Secret API Key which was initially provided by the server
+	
+oncce the client has geenrated the hash then the client needs to send the hash in the request header using the custome scheme "hmacauth"
+The data in the header will contain the public shared APP Id, the request time stamp, and the nonce separated by a colon ‘:’
+
+	
+Link to QA swagger API: https://e4qa.e4.co.za/Absa.Cancellation.API/swagger/ui/index 
+
+Enpoints: QA: 	https://e4qa.e4.co.za/Absa.Cancellation.API/api/ReceiveMessage
+
