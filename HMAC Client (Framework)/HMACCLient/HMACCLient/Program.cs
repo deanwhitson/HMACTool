@@ -29,6 +29,7 @@ namespace HMACClient
                 HttpClient client = HttpClientFactory.Create(customDelegatingHandler);
                 Console.WriteLine(" - Endpoint: " + apiBaseAddress + "api/ReceiveMessage");
                 Console.WriteLine(" - Processing Request ...");
+                CompileError
                 HttpResponseMessage response = await client.PostAsJsonAsync(apiBaseAddress + "api/ReceiveMessage", json);
 
                 if (response.IsSuccessStatusCode)
