@@ -17,9 +17,10 @@ namespace HMACClient
         }
 
         static async Task RunAsync()
-       {
+        {
             int i = 1;
-            do {
+            do
+            {
                 Console.WriteLine("");
                 string apiBaseAddress = System.Configuration.ConfigurationManager.AppSettings["apiBaseAddress"];
                 Console.WriteLine("Select CAN message to be imported:");
@@ -43,14 +44,6 @@ namespace HMACClient
                     Console.WriteLine("Failed to call the API. HTTP Status: {0}, Reason {1}", (int)response.StatusCode, response.ReasonPhrase);
                 }
             } while (i == 1);
-
-
-
-            //HERE IS SOME WHITE SPACE 
-
-
-
-
         }
     }
 }
